@@ -1,4 +1,4 @@
-# spring-mvc
+# mybatis 逆向生成工具
 这是一个 mybaits自动生成 model、dao接口、mapper文件的工具，可以为开发节省时间，也挺好用的
 
 1.修改 generatorConfig.xml的jdbcConnection节点，修改数据库链接信息
